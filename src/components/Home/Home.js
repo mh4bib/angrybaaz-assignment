@@ -3,6 +3,7 @@ import Banner from './Banner';
 import Besides from './Besides';
 import Carousels from './Carousels';
 import HowItWorks from './HowItWorks';
+import Review from './Review';
 import Services from './Services';
 import Topics from './Topics';
 
@@ -15,6 +16,7 @@ const Home = () => {
             <HowItWorks></HowItWorks>
             <Besides></Besides>
             <Carousels></Carousels>
+            <Review></Review>
         </div>
     );
 };
