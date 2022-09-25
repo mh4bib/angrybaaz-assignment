@@ -1,0 +1,6 @@
+.banner-bg {
+    background-image: url("../assets/Rectangle.png"), url("../assets/Ellipse2.png"), url("../assets/Ellipse1.png");
+    background-size: auto, auto, auto;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: left, top right, top right;
+}
