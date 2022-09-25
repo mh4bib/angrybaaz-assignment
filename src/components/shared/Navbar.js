@@ -29,7 +29,7 @@ const Navbar = () => {
                 color: navTextColor,
                 transition: "all 0.5s"
             }}
-            className='flex justify-between items-end py-[10px] bg-blue-200'>
+            className='flex justify-between items-end pt-[25px] bg-blue-200 px-[132px]'>
             <div>
                 <img className='' src={brand} alt="brand" />
             </div>
