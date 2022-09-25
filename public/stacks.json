@@ -1,0 +1,32 @@
+[
+    {
+        "img":"https://i.ibb.co/kKH6mF2/Application-stacks.png",
+        "title":"Application stacks",
+        "desc":"We develop android & iOS apps which can increase customer engagement and generate maximum ROI with maximum lead conversions."
+    },
+    {
+        "img":"https://i.ibb.co/Kq5Hfhh/Website-Stacks.png",
+        "title":"Website Stacks",
+        "desc":"Get extensively researched website and web app development services using the latest technologies like MEAN, MERN, Laravel, BootStrap, and much more."
+    },
+    {
+        "img":"https://i.ibb.co/s39qWQh/Database-Stacks.png",
+        "title":"Database Stacks",
+        "desc":"We have a set of technologies and services that organizations use to store, manage, and access data."
+    },
+    {
+        "img":"https://i.ibb.co/C9ShQ0V/AI-ML-Stacks.png",
+        "title":"AI/ML Stacks",
+        "desc":"We provide features to larger organizations which have already started maturing their processes to create standardized ML pipelines that are optimized for scale, efficiency, and control."
+    },
+    {
+        "img":"https://i.ibb.co/pnmHsgn/Blockchain.png",
+        "title":"Blockchain",
+        "desc":"We use Blockstack, a project that utilizes blockchain technology to expand the functionalities of bitcoin by serving as a second layer protocol."
+    },
+    {
+        "img":"",
+        "title":"Gaming Stacks",
+        "desc":"Gaming services serve customers in gambling establishments, such as casinos or racetracks. Some workers tend slot machines or deal cards."
+    }
+]
