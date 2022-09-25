@@ -5,7 +5,7 @@ const Review = () => {
     return (
         <div className='grid grid-cols-12 mx-[132px] my-[92px]'>
             <div className='my-auto col-span-5'>
-                <h2 className='text-[36px] text-left'>What our Client's <br /> say about us ?</h2>
+                <h2 className='text-[36px] text-left leading-[43px]'>What our Client's <br /> say about us ?</h2>
             </div>
             <div className='flex justify-end items-end col-span-7'>
                 <div className='bg-[#31D0AA] w-[630px] p-[46px] rounded-t-[90px] rounded-l-[90px]'>
